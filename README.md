@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Pro-100000?style=flat&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/AI-Enthusiast-7C3AED?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Always-Building-0EA5E9?style=flat" />
